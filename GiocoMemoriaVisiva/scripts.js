@@ -25,8 +25,7 @@ function table() {
             memory[i] = [];
             tableData[i] = [];
             let td = document.createElement("td");
-            td.innerHTML = "AA";
-            td.style.backgroundColor = ;
+            td.style.backgroundColor;
             memory[i][j] = "rgb(10, 10, 10)"
             tr.appendChild(td);
         }
